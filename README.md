@@ -1,2 +1,1 @@
-# homework2
-Primer homework oficial
+Este proyecto es una prueba
